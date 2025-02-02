@@ -3,7 +3,7 @@
 title: Getting code execution with TypeScript reflection
 
 ---
-![[/assets/img/typescript-viewing-reflection.webp]]
+![[https://www.schizo-post.ing/assets/img/typescript-viewing-reflection.webp]]
 ## Intro
 Unfortunately, we live in a world where memory exploitation is a less and less useful art. The next best thing in my opinion, is reflection; the cool hacking of object oriented programming languages. Reflection allows one to instantiate and manipulate types/classes during runtime and can allow for funky behavior, including of course RCE.
 
